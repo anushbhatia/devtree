@@ -4,7 +4,6 @@ import Card from './components/Card'
 import Footer from './components/Footer'
 import items from './assets/items'
 import LightMode from './components/LightMode';
-import Toggle from './components/Toggle';
 import { GlobalStyles, lightTheme, darkTheme } from './components/GlobalStyles';
 import { ThemeProvider } from 'styled-components';
 
@@ -17,8 +16,7 @@ function App() {
     return (
         <ThemeProvider theme={themeMode}>
                 <GlobalStyles />
-                <Toggle theme={theme} toggleTheme={toggleTheme} />
-                <Header></Header>
+                <Header theme={theme} toggleTheme={toggleTheme}></Header>
                 <div className = "container row">
                     {
                         items.map((item, i) => {

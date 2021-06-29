@@ -1,7 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyles = createGlobalStyle`
-    body, .Header, .data {
+    body, .Header, .Card {
         background: ${({ theme }) => theme.body};
         color: ${({ theme }) => theme.text};       
         transition: all .5s linear;
