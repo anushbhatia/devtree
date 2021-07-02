@@ -6,6 +6,13 @@ import dribbble from '../assets/dribbble.png';
 import behance from '../assets/behance.png';
 import github from '../assets/github.png';
 import linkedin from '../assets/linkedin.png';
+import dev from '../assets/DEV.png';
+import stackoverflow from '../assets/Stack overflow.png';
+import facebook from '../assets/FB.png';
+import hackerrank from '../assets/hackerrank.png';
+import hackerearth from '../assets/hackerearth.png';
+import medium from '../assets/medium.png';
+import buymeacoffee from '../assets/bmac.png';
 
 const items = [
   {
@@ -59,43 +66,43 @@ const items = [
   {
     title: 'Dev',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: dev,
     link: 'https://dev.to/',
   },
   {
     title: 'Stack Overflow',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: stackoverflow,
     link: 'https://stackoverflow.com/',
   },
   {
     title: 'Medium',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: medium,
     link: 'https://medium.com/',
   },
   {
     title: 'Facebook',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: facebook,
     link: 'https://www.facebook.com/',
   },
   {
     title: 'HackerRank',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: hackerrank,
     link: 'https://www.hackerrank.com/',
   },
   {
     title: 'HackerEarth',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: hackerearth,
     link: 'https://www.hackerearth.com/',
   },
   {
     title: 'Buy Me A Coffee',
     subtitle: '@anushbhatia',
-    image: linkedin,
+    image: buymeacoffee,
     link: 'https://www.hackerearth.com/',
   },
 ];
