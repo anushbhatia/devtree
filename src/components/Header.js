@@ -10,7 +10,7 @@ function Header(props) {
     return (
         <div className = "Header container">
             <div className = "ten columns">
-                devtree
+                <h2>devtree</h2>
             </div>
             <div className = "two columns">
                 <Toggle theme={props.theme} toggleTheme={props.toggleTheme} />

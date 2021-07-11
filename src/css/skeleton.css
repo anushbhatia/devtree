@@ -24,6 +24,11 @@
     }
 }
 
+@media screen and (max-width: 600px) {
+    .ten.columns {
+        padding-top: 13px;
+    }
+}
 
 /* For devices larger than 550px */
 
