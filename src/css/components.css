@@ -31,7 +31,7 @@ a:hover {
 }
 
 .Card:hover {
-    background: rgba(255, 255, 255, 0.12);
+    background: rgba(173, 173, 173, 0.12);
     border: 1px solid hsla(0, 0%, 87.8%, 0);
 }
 
