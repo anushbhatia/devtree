@@ -89,19 +89,19 @@ const items = [
   },
   {
     title: 'HackerRank',
-    subtitle: '@anushbhatia',
+    subtitle: '@JohnDoe',
     image: hackerrank,
     link: 'https://www.hackerrank.com/',
   },
   {
     title: 'HackerEarth',
-    subtitle: '@anushbhatia',
+    subtitle: '@JohnDoe',
     image: hackerearth,
     link: 'https://www.hackerearth.com/',
   },
   {
     title: 'Buy Me A Coffee',
-    subtitle: '@anushbhatia',
+    subtitle: '@JohnDoe',
     image: buymeacoffee,
     link: 'https://www.hackerearth.com/',
   },
