@@ -23,21 +23,21 @@ const items = [
   },
   {
     title: 'GitHub',
-    subtitle: '@anushbhatia',
+    subtitle: '@johndoe',
     image: github,
-    link: 'https://github.com/anushbhatia',
+    link: 'https://github.com/',
   },
   {
     title: 'Instagram',
-    subtitle: '@anush_bhatia',
+    subtitle: '@johndoe',
     image: instagram,
-    link: 'https://instagram.com/anush_bhatia',
+    link: 'https://instagram.com/',
   },
   {
     title: 'Apps',
     subtitle: 'My App Store Page!',
     image: appstore,
-    link: '#',
+    link: 'https://appstore.com/',
   },
   {
     title: 'Twitter',
